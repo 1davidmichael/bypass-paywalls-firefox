@@ -15,6 +15,7 @@ var defaultSites = {
   'Corriere Della Sera': 'corriere.it',
   'Daily Press': 'dailypress.com',
   'DeMorgen': 'demorgen.be',
+  'Des Moines Register': 'desmoinesregister.com',
   'Denver Post': 'denverpost.com',
   'De Tijd': 'tijd.be',
   'De Groene Amsterdammer': 'groene.nl',

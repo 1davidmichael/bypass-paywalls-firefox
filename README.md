@@ -19,6 +19,7 @@
 [Daily Press](https://www.dailypress.com)\
 [DeMorgen](https://demorgen.be)\
 [Denver Post](https://www.denverpost.com)\
+[Des Moines Register](https://www.desmoinesregister.com)\
 [De Groene Amsterdammer](https://www.groene.nl)\
 [De Tijd](https://www.tijd.be)\
 [de Volkskrant](https://www.volkskrant.nl)\
